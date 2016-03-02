@@ -1,0 +1,27 @@
+{
+  "name": "babel-plugin-react-isomorphic",
+  "version": "1.0.0",
+  "description": "Babel plugin to transform react imports to react/lib/ReactIsomorphic",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/iamdustan/babel-plugin-react-isomorphic.git"
+  },
+  "keywords": [
+    "babel-plugin",
+    "react"
+  ],
+  "author": "Dustan Kasten <dustan.kasten@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamdustan/babel-plugin-react-isomorphic/issues"
+  },
+  "homepage": "https://github.com/iamdustan/babel-plugin-react-isomorphic#readme",
+  "devDependencies": {
+    "babel-core": "^6.6.0",
+    "tape": "^4.4.0"
+  }
+}
